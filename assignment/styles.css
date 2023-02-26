@@ -1,0 +1,28 @@
+#myChart, #myChart2 {
+    border: 1px solid black;
+}
+ 
+ body{
+    margin-top: 40px;
+   
+    
+ }
+#date{
+    margin-bottom: 20px;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+}
+
+#submitbtn{
+    margin-top: 5px;
+    padding: 5px 10px;
+    color: white;
+    background-color: green;
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+
+
+ 
